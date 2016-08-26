@@ -1,0 +1,72 @@
+.cancha {
+	width:1000px;
+	height:500px;
+	background-color:#088A08;
+	margin:0px;
+	position:relative;
+	
+
+}
+
+.raya {
+
+width:950px; 
+height:450px;
+border:3px solid #F2F2F2;
+bottom:25px;
+left:20px;
+position:absolute;
+}
+.ball1{
+
+position: absolute;
+left: 110px;
+top:125px;
+
+}
+
+.ball2{
+
+position: absolute;
+left:735px;
+top:305px;	
+}
+
+.ball3{
+	
+position: absolute;
+left:465px;
+top:75px;	
+}
+
+.circulo {
+ border:3px solid #F2F2F2;
+ border-radius: 200px;
+ width:200px;
+ height:200px;
+ position:absolute;
+ left:350px;
+ top:120px;
+}
+
+.porteria1 {
+width:120px;
+height:200px;
+right:0;
+top:120px;
+position:absolute;
+border-top:3px solid #F2F2F2;
+border-left:3px solid #F2F2F2;;
+border-bottom:3px solid #F2F2F2;	
+}
+
+.porteria2 {
+width:120px;
+height:200px;
+left:100;
+top:130px;
+position:absolute;
+border-right:3px solid #F2F2F2;
+border-top:3px solid #F2F2F2;
+border-bottom:3px solid #F2F2F2;	
+}
